@@ -1,5 +1,7 @@
 All files in this directory are created for educational purposes.
 
-In order to show my Python development efforts, I will push my projects to this GitHub directory.
+This is a Python GUI application that utilizes QT with PySide.
+
+The application quizzes users on US State capitals with multiple-choice questions. 
 
 email: orlando.g.viera@gmail.com
